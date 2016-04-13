@@ -3,8 +3,7 @@
 ##
 ## This code generates a plot similar to plot shown in 
 ## figure/unnamed-chunk-3.png, and saves the plot in the file plot2.png. The 
-## plot is a histogram that shows a line chart of Global Active Power use (in 
-## kilowatts) over time.
+## plot shows a line chart of Global Active Power use (in kilowatts) over time.
 ##
 ## Note: the data file "data/household_power_consumption.txt" is not committed as
 ## part of this repo. If you'd like to run the code yourself, please download UCI
