@@ -1,3 +1,7 @@
+# R Base Plotting Demo
+
+By AJ Heller, April 11th, 2016. For Johns Hopkins University's Data Science Specialization (Coursera). This repo contains R code to generate 4 different plots using R's base plotting system. These examples show how to process and filter a 20MB csv, generate histograms and line plots, and they exemplify a clean way to organize and document R code.
+
 ## Introduction
 
 This assignment uses data from
